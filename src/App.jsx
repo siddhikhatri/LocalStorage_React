@@ -25,7 +25,7 @@ const App = () => {
   return (
     <div>
       <center>
-      <h2>Form</h2>
+      <h2><u>Form</u></h2>
       <table>
         <tbody>
           <tr>
